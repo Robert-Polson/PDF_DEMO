@@ -1,0 +1,19 @@
+2025-07-15 16:10:14,418 - main - INFO -  
+2025-07-15 16:10:14,419 - main - INFO - Файл: 50mb.pdf сжат и сохранен как c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\6b75b27a-a643-4bee-a33b-8bb72de2386c.pdf
+2025-07-15 16:10:14,419 - main - INFO - Файл: 50mb.pdf | Уровень: medium | Алгоритм: ebook | DPI: 100 | Исходный вес: 51299 KB | Итоговый вес: 17503 KB
+2025-07-15 16:10:14,472 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\6b75b27a-a643-4bee-a33b-8bb72de2386c.pdf
+2025-07-15 16:10:14,743 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\uploads\6b75b27a-a643-4bee-a33b-8bb72de2386c.pdf
+2025-07-15 16:17:14,880 - main - INFO -  
+2025-07-15 16:17:14,880 - main - INFO - Файл: Доп.соглашение от 10.10.2024.pdf сжат и сохранен как c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\d2aca921-3d0c-4b2c-9fb1-0746a528976c.pdf
+2025-07-15 16:17:14,880 - main - INFO - Файл: Доп.соглашение от 10.10.2024.pdf | Уровень: medium | Алгоритм: ebook | DPI: 100 | Исходный вес: 10025 KB | Итоговый вес: 972 KB
+2025-07-15 16:17:14,927 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\d2aca921-3d0c-4b2c-9fb1-0746a528976c.pdf
+2025-07-15 16:17:14,927 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\uploads\d2aca921-3d0c-4b2c-9fb1-0746a528976c.pdf
+2025-07-16 10:28:13,535 - main - INFO -  
+2025-07-16 10:28:13,542 - main - ERROR - Ошибка при обработке файла 50mb.pdf: Процесс Ghostscript превысил таймаут
+2025-07-16 10:28:13,543 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\23374d3a-8f3d-431b-9b06-7c52bff830fb.pdf
+2025-07-16 10:28:13,647 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\uploads\23374d3a-8f3d-431b-9b06-7c52bff830fb.pdf
+2025-07-16 10:29:25,504 - main - INFO -  
+2025-07-16 10:29:25,504 - main - ERROR - Файл: 50mb.pdf Ошибка при обработке: Процесс Ghostscript превысил таймаут
+2025-07-16 10:29:25,505 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\compressed\ffffaebb-543d-47cc-8191-9f3085d208fa.pdf
+2025-07-16 10:29:25,642 - main - INFO - Удалён файл: c:\Users\Grushkovsky\work\pdf\pdf_compressor\uploads\ffffaebb-543d-47cc-8191-9f3085d208fa.pdf
+
